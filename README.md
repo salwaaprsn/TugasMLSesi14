@@ -44,7 +44,7 @@ Aplikasi ini merupakan implementasi sederhana untuk mendeteksi pesan spam menggu
 1. **Clone repository ini:**
 
 ```bash
-git clone https://github.com/Buluzaku12/spam-detector-streamlit.git
+git clone (https://github.com/salwaaprsn/TugasMLSesi14.git)
 cd spam-detector-streamlit
 ````
 
